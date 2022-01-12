@@ -1,0 +1,26 @@
+main {
+  min-height: 80vh;
+}
+.navbrand{
+  text-decoration: none;
+}
+
+.pagination{
+  justify-content: center;
+  
+}
+.logo-text{
+  text-decoration: none;
+  color: #fff;
+  list-style: none;
+}
+ span:hover{
+  color: #fff;
+}
+
+.cartquantity{
+   font-size: 15px;
+   color: #fff;
+   border-color: #000;
+
+}
